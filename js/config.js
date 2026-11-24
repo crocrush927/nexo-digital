@@ -27,7 +27,9 @@ window.SITE_CONFIG = {
   // Contact details (replace the placeholders before publishing)
   
 contact: {
-  email: "aligolamzadeh743@gmail.com",
+  email: "email: "aligolamzadeh743@gmail.com",
+phone: "",
+whatsapp: "",
   phone: "",
 
     ",
