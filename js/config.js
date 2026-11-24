@@ -26,7 +26,7 @@ window.SITE_CONFIG = {
 
   // Contact details (replace the placeholders before publishing)
   contact: {
-    email: "hello@example.com",
+    ",email: "aligolamzadeh743@gmail.com",
     phone: "+00 000 000 0000",
     whatsapp: "",                // digits only with country code, e.g. "441234567890". Leave empty to hide the button.
     whatsappMessage: {
