@@ -25,9 +25,13 @@ window.SITE_CONFIG = {
   },
 
   // Contact details (replace the placeholders before publishing)
-  contact: {
-    ",email: "aligolamzadeh743@gmail.com",
-    phone: ""
+  
+contact: {
+  email: "aligolamzadeh743@gmail.com",
+  phone: "",
+
+    ",
+    : ""
     whatsapp: "",                // digits only with country code, e.g. "441234567890". Leave empty to hide the button.
     whatsappMessage: {
       fa: "سلام، می‌خواهم درباره خدمات شما اطلاعات بگیرم.",
